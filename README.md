@@ -4,17 +4,8 @@ Python scripts to animate the hopf fibration using matplotlib.
 
 ![plot3d](https://user-images.githubusercontent.com/62537514/79318089-7b152e00-7efe-11ea-83f9-4e4e50f67e39.png)
 
-
-
-
-Mutually overlapping objects are not handled by matplotlib (v2.1.1)
-This is a fundamental limitation. mplot3d is not a true 3D renderer. 
-The graphics is a series of 2d layers which replicate a 3d rendered.
-Lines & points are layered according to their printing order:
-
-
-
-
+Unfortunately the 3d animation isn't the best as mutually overlapping objects are not handled by matplotlib (v2.1.1).
+Lines & points are plotted in layers according to programming order - display graphics is a series of 2d layers which replicate a 3d renderer. For example
 
 matlab - python comparison:
 
