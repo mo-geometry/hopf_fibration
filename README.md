@@ -2,9 +2,6 @@
 
 Matlab and python scripts that animate the hopf fibration.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Rj6p3NDDtmE)
-
-
 The sequence is made to replicate Niles Johnson's original version: 
 
 https://nilesjohnson.net/hopf.html
