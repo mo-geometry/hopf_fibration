@@ -17,7 +17,7 @@ def genFigure(f, d):
     f1 = plt.figure()
     # 3d axes
     ax = p3.Axes3D(f1)
-    ax.axis('equal')
+    # ax.axis('equal')
     ax.view_init(30, 30)
     # draw sphere
     ax.plot_surface(0.5 * x + 4, 0.5 * y + 4, 0.5 * z,
