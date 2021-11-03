@@ -1,16 +1,39 @@
 # Quaternions Spinors and the Hopf Fibration
 
+
+<center>
+<img src="https://user-images.githubusercontent.com/62537514/140233035-0fa43290-0778-412a-960d-f29f5a913253.png" width="linewidth"/>
+</center>
+
+
 ## Overview
 
-In this respository are the matlab and python scripts used to create the figures in the article:
-* Quaternions Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics
+* matlab and python scripts used to create the figures in the article:
 
-![hopf_stereo](https://user-images.githubusercontent.com/62537514/140200805-c7934edb-76cf-40d3-9edb-2713f25a612a.png)
+Brian O'Sullivan "Quaternion Spinors and the Hopf Fibration: Hidden Variable in Classical Mechanics" arXiv:1601.02569
+
+```
+@Article{OSullivan21,
+  author = {Brian O'Sullivan},
+  title = {Quaternion Spinors and the Hopf Fibration: Hidden Variable in Classical Mechanics},
+  booktitle = {arXiv:1601.02569},
+  year = {2021}
+}
+```
+
+### About
+
+The Hopf Fibration is a fundamental example of a fibre bundle. Named after Heinz Hopf who in 1931 discovered a many-to-one continuous function (or "map") from the 3-sphere onto the 2-sphere such that each distinct point of the 2-sphere is mapped from a distinct great circle of the 3-sphere. This article details the 6 Hopf projections between the 3-sphere and 2-sphere and illustrates their respective stereographic projections. Most notable is the S1 fibre bundle connecting the 3-sphere and 2-sphere - which consists of the global geometric and dynamics phases. This fibre bundle is derived in it's closed form for the first time.
 
 
+## Stereographic projection of the 6 Hopf maps
 
-## Hopf fibration video frames [matlab+python]
+<center>
+<img src="https://user-images.githubusercontent.com/62537514/140234321-7c7004ff-3961-4988-91a3-4b327fdc8faf.gif" width="linewidth"/>
+</center>
 
-[![Watch the video]((https://user-images.githubusercontent.com/62537514/140199618-9c0ac68c-c056-46af-b9c6-d0d9ec285a54.png)](https://youtu.be/Rj6p3NDDtmE)
 
- - Included are matlab (and python) scripts to generate the frames in the video above, which replicates Niles Johnson's animation of the hopf fibration.
+### References
+
+* Brian O'Sullivan, ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics”, 
+arXiv:1601.02569 [(arXiv)](https://arxiv.org/abs/1601.02569v13)
