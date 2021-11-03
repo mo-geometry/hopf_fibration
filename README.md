@@ -5,6 +5,8 @@
 <img src="https://user-images.githubusercontent.com/62537514/140233035-0fa43290-0778-412a-960d-f29f5a913253.png" width="linewidth"/>
 </center>
 
+####   - Geometric phase and the Stereographic projection of the Hopf fibration
+
 
 ## Overview
 
@@ -35,5 +37,5 @@ The Hopf Fibration is a fundamental example of a fibre bundle. Named after Heinz
 
 ### References
 
-* Brian O'Sullivan, ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics”, 
-arXiv:1601.02569 [(arXiv)](https://arxiv.org/abs/1601.02569v13)
+* Brian O'Sullivan ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics.” 
+[(arXiv:1601.02569)](https://arxiv.org/abs/1601.02569v13)
