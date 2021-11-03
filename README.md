@@ -1,19 +1,16 @@
 # Quaternions Spinors and the Hopf Fibration
 
-![bloch](https://user-images.githubusercontent.com/62537514/140198060-a251ba9a-327f-4d2d-a766-5e3364c83993.png)
-
 ## Overview
 
+In this respository are the matlab and python scripts used to create the figures in the article:
+* Quaternions Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics
+
+![hopf_stereo](https://user-images.githubusercontent.com/62537514/140200805-c7934edb-76cf-40d3-9edb-2713f25a612a.png)
 
 
 
+## Hopf fibration video frames [matlab+python]
 
-Matlab and python scripts that animate the hopf fibration.
+[![Watch the video]((https://user-images.githubusercontent.com/62537514/140199618-9c0ac68c-c056-46af-b9c6-d0d9ec285a54.png)](https://youtu.be/Rj6p3NDDtmE)
 
-The sequence is made to replicate Niles Johnson's original version: 
-
-https://nilesjohnson.net/hopf.html
-
-### Matlab - Python:
-
-![exampleError](https://user-images.githubusercontent.com/62537514/79315662-2b813300-7efb-11ea-829e-c57a19ef4efe.png)
+ - Included are matlab (and python) scripts to generate the frames in the video above, which replicates Niles Johnson's animation of the hopf fibration.
