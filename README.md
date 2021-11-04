@@ -12,9 +12,8 @@
 
 * matlab and python scripts used to create the figures in the article:
 
-"Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics" 
-
-[arXiv:1601.02569 (Nov 2021)](https://arxiv.org/abs/1601.02569v13)
+* Brian O'Sullivan ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics.” (November 2021)
+[(arXiv:1601.02569)](https://arxiv.org/abs/1601.02569v13)
 
 
 ```
@@ -40,7 +39,3 @@ This article details the 6 Hopf projections between the 3-sphere and 2-sphere an
 </center>
 
 
-### References
-
-* Brian O'Sullivan ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics.” 
-[(arXiv:1601.02569)](https://arxiv.org/abs/1601.02569v13)
