@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/62537514/140233035-0fa43290-0778-412a-960d-f29f5a913253.png" width="linewidth"/>
 </center>
 
-####   - Geometric phase and the Stereographic projection of the Hopf fibration
+####   - Geometric phase of a parallel tranported tangent vector, and the Stereographic projection of the Hopf fibration
 
 
 ## Overview
