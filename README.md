@@ -25,7 +25,7 @@ Brian O'Sullivan "Quaternion Spinors and the Hopf Fibration: Hidden Variable in 
 
 ### About
 
-The Hopf Fibration is a fundamental example of a fibre bundle. Named after Heinz Hopf who in 1931 discovered a many-to-one continuous function (or "map") from the 3-sphere onto the 2-sphere such that each distinct point of the 2-sphere is mapped from a distinct great circle of the 3-sphere. This article details the 6 Hopf projections between the 3-sphere and 2-sphere and illustrates their respective stereographic projections. Most notable is the S1 fibre bundle connecting the 3-sphere and 2-sphere - which consists of the global geometric and dynamics phases. This fibre bundle is derived in it's closed form for the first time.
+The Hopf Fibration is a fundamental example of a fibre bundle. Named after Heinz Hopf who discovered (1931) a many-to-one continuous function (or "map") from the 3-sphere onto the 2-sphere such that each distinct point of the 2-sphere is mapped from a distinct great circle of the 3-sphere. This article details the 6 Hopf projections between the 3-sphere and 2-sphere and illustrates their stereographic projections. Most notably the S1 fibre bundle connecting the 3-sphere and 2-sphere, consisting of the global geometric and dynamics phases, is derived in it's closed form for the first time.
 
 
 ## Stereographic projection of the 6 Hopf maps
