@@ -12,7 +12,7 @@
 
 matlab and python scripts used to create the figures in the article:
 
-* Brian O'Sullivan ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics.” (November 2021)
+* ”Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics.” (November 2021)
 [(arXiv:1601.02569)](https://arxiv.org/abs/1601.02569v13)
 
 
