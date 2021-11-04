@@ -20,7 +20,7 @@
 ```
 @Article{OSullivan21,
   author = {Brian O'Sullivan},
-  title = {Quaternions, Spinors and the Hopf Fibration: Hidden Variable in Classical Mechanics},
+  title = {Quaternions, Spinors and the Hopf Fibration: Hidden Variables in Classical Mechanics},
   booktitle = {arXiv:1601.02569},
   year = {2021}
 }
