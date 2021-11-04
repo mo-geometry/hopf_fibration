@@ -1,4 +1,4 @@
-# Quaternions Spinors and the Hopf Fibration
+# Quaternions, Spinors and the Hopf Fibration
 
 
 <center>
