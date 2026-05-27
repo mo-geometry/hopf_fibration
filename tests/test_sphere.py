@@ -11,7 +11,7 @@ class TestCreateUvSphere:
     """Unit sphere mesh generation tests."""
 
     def test_vertex_count(self) -> None:
-        positions, normals, colors, indices = create_uv_sphere(slices=8, stacks=4)
+        positions, normals, colors, _indices = create_uv_sphere(slices=8, stacks=4)
         expected_verts = (4 + 1) * (8 + 1)  # (stacks+1) * (slices+1)
         assert positions.shape == (expected_verts, 3)
         assert normals.shape == (expected_verts, 3)
